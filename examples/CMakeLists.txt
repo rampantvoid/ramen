@@ -1,0 +1,2 @@
+add_executable(ramen_example example.cpp)
+target_link_libraries(ramen_example PRIVATE ramen)
